@@ -1,0 +1,342 @@
+@media(max-width:1124px){
+    #about-section p{
+        width: 38rem;
+    }
+}
+
+@media (max-width:991px){
+    .header-content img{
+        width: 90%;
+    }
+    #about-section p{
+        width: 100%;
+    }
+    #about-section .btn{
+        margin-bottom: 3rem;
+    }
+    #about-section .card{
+        width: 100%;
+        margin-top: 2rem;
+    }
+    #trafic-section .col-lg-4:nth-child(2),
+    #trafic-section .col-lg-4:nth-child(3){
+        margin-top: 15rem;
+    }
+    #choose-section p{
+        width: 100%;
+    }
+    #choose-section img{
+        width: 100%;
+        margin-top: .5rem;
+    }
+    #choose-section h4,p{
+        margin-left: 1rem;
+    }
+    #download-section .mobilehand-img{
+        width: 100%;
+    }
+    #testimonial-section .col-md-6:nth-child(1),
+    #testimonial-section .col-md-6:nth-child(2){
+        width: 100%;
+    }
+    #testimonial-section .card:nth-child(1){
+        margin-left: -1rem;
+    }
+    #testimonial-section .card:last-child{
+        margin-left: 0rem;
+    }
+    #call-section h2{
+        font-size: 2.5rem;
+    }
+    #contact-section p{
+        margin-left: 0;
+    }
+    #contact-section .col-lg-4:nth-child(2),
+    #contact-section .col-lg-4:nth-child(3){
+        margin-top: 3rem;
+    }
+    #about-section .about-btn{
+        margin-left: 1rem;
+    }
+}
+
+@media(max-width:767px){
+    #download-section .mobilehand-img{
+        display: none;
+    }
+    #choose-section p{
+        width: 100%;
+    }
+    #choose-section img{
+        width: 70%;
+    }
+    #choose-section .down-btn{
+        margin-top: 2rem;
+    }
+    #choose-section .col-sm-12:nth-child(1),
+    #choose-section .col-sm-12:nth-child(2),
+    #choose-section .col-sm-12:nth-child(3),
+    #choose-section .col-sm-12:nth-child(4){
+        margin-top: 4rem;
+    }
+    #testimonial-section p{
+        width: 38rem;
+    }
+    #call-section h2{
+        font-size: 2rem;
+    }
+    #contact-section .col-sm-12:nth-child(2),
+    #contact-section .col-sm-12:nth-child(3){
+        margin-top: 4rem;
+    }
+    #about-section .about-btn{
+        margin-left: 1rem;
+    }
+}
+
+@media (max-width:575px){
+    .header-content img{
+        margin-top: 2rem;
+    }
+    .header-content p{
+        font-size: 1.5rem;
+        margin-left: 0rem;
+        width: 5rem;
+        letter-spacing: .3rem;
+        margin-left: 2rem;
+        margin-top: 2rem;
+    }
+    #about-section h3{
+        font-size: 2rem;
+        width: 30rem;
+        margin-left: -6rem;
+    }
+    #about-section h2{
+        font-size: 2.5rem;
+    }
+    #about-section .service{
+        width: 30rem;
+        margin-left: -12rem;
+    }
+    #about-section .newyork{
+        width: 30rem;
+        margin-left: -6rem;
+    }
+    #about-section p{
+        font-size: 2.5rem;
+        width: 25rem;
+        line-height: 3.2rem;
+        margin-left: -12rem;
+    }
+    #about-section .about-btn{
+        width: 20rem;
+        margin-left: -7rem;
+    }
+    #about-section .fillup-card{
+        width: 25rem;
+        margin-left: -12rem;
+        margin-top: 5rem;
+    }
+    #about-section .fillup-card .card-header h3{
+        margin-left: .6rem;
+    }
+    #about-section .btn{
+        margin-bottom: 0;
+    }
+    #download-section .little-description{
+        width: 26rem;
+    }
+    #download-section p{
+        width: 25rem;
+    }
+    #downlod-section .down-img .first img{
+        float: none;
+        width: 100%;
+        margin-top: 2rem;
+    }
+    #downlod-section .down-img .second img{
+        float: none;
+        width: 100%;
+        margin-top: 2rem;
+    }
+    #download-section .first img{
+        display: block;
+        margin-left: 2rem;
+    }
+    #download-section .second img{
+        display: block;
+        width: 100%;
+        margin: auto;
+    }
+    #testimonial-section h3{
+        font-size: 3rem;
+    }
+    #testimonial-section h2{
+        font-size: 4rem;
+    }
+    #testimonial-section p{
+        width: 20rem;
+    }
+    #testimonial-section .client-review h4{
+        font-size: 1.8rem;
+    }
+    #testimonial-section .client-review h4{
+        font-size: 1.8rem;
+    }
+    #footer-section h4{
+        width: 25rem;
+    }
+    #call-section h2{
+        font-size: 2rem;
+        width: 28rem;
+    }
+}
+
+@media (min-width:345px) and (max-width:350px){
+    #about-section .fillup-card{
+        margin-left: -10rem;
+    }
+    .header-content p{
+        margin-left: 5rem;
+    }
+}
+@media (min-width:351px) and (max-width:369px){
+    #about-section .fillup-card{
+        margin-left: -8rem;
+    }
+    .header-content p{
+        margin-left: 5rem;
+    }
+}
+@media (min-width:370px) and (max-width:400px){
+    #about-section .fillup-card{
+        margin-left: -7rem;
+    }
+    #testimonial-section p{
+        width: 30rem;
+    }
+    #call-section h2{
+        margin-left: 4rem;
+    }
+    #footer-section h4{
+        margin-left: 5rem;
+    }
+    #download-section p{
+        width: 36rem;
+    }
+    #download-section .little-description{
+        width: 38rem;
+    }
+    #about-section p{
+        width: 35rem;
+    }
+    #about-section h3{
+        margin-left: -1rem;
+    }
+    #about-section .service{
+        margin-left: -8rem;
+    }
+    #about-section .newyork{
+        margin-left: -3rem;
+    }
+    #about-section .about-btn{
+        margin-left: -3rem;
+    }
+    .header-content p{
+        margin-left: 8rem;
+    }
+}
+
+@media (min-width:401px) and (max-width:450px){
+    .header-content p{
+        margin-left: 10rem;
+    }
+    #about-section h3{
+        margin-left: 0;
+    }
+    #about-section .service{
+        margin-left: -7rem;
+    }
+    #about-section .newyork{
+        margin-left: -1rem;
+    }
+    #about-section p{
+        width: 36rem;
+    }
+    #about-section .about-btn{
+        margin-left: 1rem;
+    }
+    #about-section .fillup-card{
+        margin-left: -5rem;
+    }
+    #download-section .little-description{
+        width: 39rem;
+    }
+    #download-section p{
+        width: 38rem;
+    }
+    #download-section .down-img::after{
+        content: '';
+        display: table;
+        clear: both;
+    }
+    #download-section .down-img img{
+         width: 80%;
+         display: block;
+    }
+    #testimonial-section p{
+        width: 38rem;
+    }
+    #call-section h2{
+        margin-left: 7rem;
+    }
+    #footer-section h4{
+        margin-left: 8rem;
+    }
+}
+
+@media (min-width:451px) and (max-width:575px){
+    .header-content p{
+        margin-left: 13rem;
+    }
+    #about-section h3{
+        margin-left: 3rem;
+    }
+    #about-section .service{
+        margin-left: -3rem;
+    }
+    #about-section .newyork{
+        margin-left: 2rem;
+    }
+    #about-section p{
+        width: 43rem;
+    }
+    #about-section .about-btn{
+        margin-left: 1rem;
+        margin-top: 3rem;
+    }
+    #about-section .fillup-card{
+        margin-left: -2rem;
+    }
+    #download-section .little-description{
+        width: 46rem;
+    }
+    #download-section p{
+        width: 40rem;
+    }
+    #testimonial-section p{
+        width: 39rem;
+    }
+    #call-section h2{
+        margin-left: 9rem;
+    }
+    #footer-section h4{
+        margin-left: 10rem;
+    }
+}
+
+@media (min-width:535px) and (max-width:575px){
+    #about-section p{
+        width: 49rem;
+    }
+}
